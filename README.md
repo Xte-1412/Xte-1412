@@ -2,7 +2,7 @@
 
 <img src="logo.png" width="180" style="border-radius: 50%; width: 180px; height: 180px; object-fit: cover;" />
 
-# Avin1731 | Xte1412  
+# [Avin1731](https://github.com/Avin1731) | [Xte1412](https://github.com/Xte-1412)
 ### *Menuju tak terbatas dan melampauinya.*
 
 > **"Sore nara, ore ga sono saki ni michibiku. Sekai zentai o teki ni mawashite demo, omae o sukutte yaru!!"**  
@@ -129,8 +129,8 @@ expertise = {
 
 # 🚧 Current Project
 
-⚡ **Discord Productivity Bot – [A.C] Misaka Mikoto ~**  
-Music • Productivity • Academy City Inspired
+## ⚡ Discord Productivity Bot ➡ [-A.C- Misaka Mikoto ~](https://github.com/Xte-1412/-A.C-Misaka-Mikoto-)
+> Music • Productivity • Mood Booster
 
 ---
 
