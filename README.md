@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="logo.jpg" width="180" style="border-radius: 12px;" />
+<img src="logo.png" width="180" style="border-radius: 50%; width: 180px; height: 180px; object-fit: cover;" />
 
 # Avin1731 | Xte1412  
 ### *Menuju tak terbatas dan melampauinya.*
